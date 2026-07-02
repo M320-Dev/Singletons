@@ -1,0 +1,9 @@
+{
+  "name": "com.m320.singletons",
+  "version": "1.0.0",
+  "displayName": "Singletons",
+  "description": "Allows for the implementation of single instance MonoBehaviours or ScriptableObjects.",
+    "author": {
+    "name": "M_320"
+  }
+}
