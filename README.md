@@ -79,9 +79,7 @@ A `MonoBehaviour` singleton can implement `IScenePersistentSingleton` to persist
 ```csharp
 using M320.Singletons;
 
-public class GameManager :
-    Singleton<GameManager>,
-    IScenePersistentSingleton
+public class GameManager : Singleton<GameManager>, IScenePersistentSingleton
 {
 }
 ```
